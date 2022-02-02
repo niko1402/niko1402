@@ -1,6 +1,6 @@
 Hi, I'm Nik. I'm a British jazz musician and web developer currently living in Brazil.
-Having learnt html, css, and responsive web design, I'm currently adding Javascript to my skills.
-I'd love to collaborate on html/css and/or Javascript projects.
+Skills: html, css, responsive web design, javascript and React.
+I'd love to collaborate on html/css projects or Javascript/React apps and projects.
 You can reach me at nik@nikpayton.com or nikpayton@gmail.com
 
 <!---
